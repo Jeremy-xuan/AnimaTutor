@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <a href="./README_EN.md">English</a> | <b>简体中文</b> | <a href="./README_JA.md">日本語</a>
+  <a href="./README_EN.md">English(还没来得及写)</a> | <b>简体中文</b> | <a href="./README_JA.md">日本語(用不了)</a>
 </p>
 
 > *“有些事情概率为零，但我曾经希望它发生。”*
