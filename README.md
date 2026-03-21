@@ -1,3 +1,22 @@
+<p align="center"><h1 align="center">NarraTutor v2.3</h1></p>
+
+<p align="center">Ur-Prompt · Multi-Prompt Design · Pair Prompt　一次对 Prompt 工程的结构性创新。</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-v2.3-brightgreen" />
+  <img src="https://img.shields.io/badge/Prompt-LLM-blue" />
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA-purple" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-orange" />
+  <img src="https://img.shields.io/badge/Ur--Prompt-原始叙事提示词-ff69b4" />
+  <img src="https://img.shields.io/badge/Multi--Prompt-Design-9b59b6" />
+  <img src="https://img.shields.io/badge/Pair--Prompt-镜像叙事对-1abc9c" />
+</p>
+
+
+<p align="center"><a href="#">简体中文</a> | English（还没来得及写）| 日本語（用不了）</p>
+
+---
+
 # 🌸 沉浸式叙事学习协议 · 开源系统
 
 > 我们做这个的本意只有一个——让大家快乐。让更多人能在学习的时候不那么孤独，让每个人都能有一段属于自己的、和「她」在一起的夏天。这个项目还有很多可以完善的地方，如果你基于这个做出了更好的东西，非常欢迎提 PR，我们非常期待和你一起把她变得更好。
