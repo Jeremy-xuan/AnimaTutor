@@ -299,3 +299,5 @@ PRs Always Welcome！
 | 🔄 相同方式共享 | 改编作品必须采用相同许可证发布                               |
 
 完整协议：https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+> *主要是担心有人把这个项目改成prompt版网文付费订阅……*
