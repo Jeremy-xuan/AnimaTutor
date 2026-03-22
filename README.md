@@ -1,4 +1,4 @@
-<p align="center"><h1 align="center">NarraTutor v2.3</h1></p>
+<p align="center"><h1 align="center">AnimaTutor v2.3</h1></p>
 
 <p align="center">Ur-Prompt · Multi-Prompt Design · Pair Prompt　一次对 Prompt 工程的结构性创新。</p>
 
