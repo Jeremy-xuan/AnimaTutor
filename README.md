@@ -176,7 +176,7 @@
 
 > **Ur-Prompt 把"定义一个复杂系统"这件难事，变成了"写一个你喜欢的故事"这件相对容易的事。**
 
-> **同时，修改Ur-Prompt，再通过新版Ur-Prompt调整meta promt，会比直接调整meta prompt更加轻松，灵活度也要高的多。**
+> **修改 Ur-Prompt，再通过新版 Ur-Prompt 调整 meta promt，会比直接调整 meta prompt 更加轻松，灵活度也要高的多。**
 
 ---
 
